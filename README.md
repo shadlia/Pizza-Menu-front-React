@@ -7,18 +7,18 @@ A Simple mouthwatering  React-based Pizza Menu App for a pizza restaurant, desig
 Explore the world of pizzas and enjoy a smooth ordering process with this interactive React app!
 
 # Technologies Used
-React for building a dynamic user interface.
-JavaScript for interactive features.
-Responsive design for optimal viewing on all devices.
+- React for building a dynamic user interface.
+- JavaScript for interactive features.
+- Responsive design for optimal viewing on all devices.
 
 # Getting Started
-Clone this repository.
-Run npm install to install dependencies.
-Run npm start to launch the app locally.
-Start exploring and customizing your pizza order!
+- Clone this repository.
+- Run npm install to install dependencies.
+- Run npm start to launch the app locally.
+- Start exploring and customizing your pizza order!
 
 # Contributions
-Contributions are welcome! If you have ideas for enhancements or spot any issues, feel free to fork the repository and submit a pull request.
+- Contributions are welcome! If you have ideas for enhancements or spot any issues, feel free to fork the repository and submit a pull request.
 ❗ This project is made for learning purposes (React)
 
 # Screenshot
