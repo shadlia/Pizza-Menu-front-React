@@ -2,9 +2,9 @@
 A Simple mouthwatering  React-based Pizza Menu App for a pizza restaurant, designed to help customers explore and order their favorite pizzas with ease.
 
 # Features
-🍕 Browse a delectable menu of pizzas.
-🔍 Search for specific pizzas by name or ingredients.
-Explore the world of pizzas and enjoy a smooth ordering process with this interactive React app!
+- 🍕 Browse a delectable menu of pizzas.
+- 🔍 Search for specific pizzas by name or ingredients.
+- Explore the world of pizzas and enjoy a smooth ordering process with this interactive React app!
 
 # Technologies Used
 - React for building a dynamic user interface.
